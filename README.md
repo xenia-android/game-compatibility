@@ -1,4 +1,4 @@
-# game-compatibility
+# game-compatibility (for android)
 If your favorite game isn't working on Xenia, the best way to prioritize it is to find it
 in the game compatibility list and give the OP a **thumbs up reaction**. This allows
 the developers to find popular games quickly.
@@ -34,4 +34,4 @@ Comments that fall under this may be deleted.
 #### **Repeat offenders will be blocked from this repository.**
 
 #
-If you would like help with Xenia go to our [Discord server's #help channel](https://discord.gg/Q9mxZf9).
+If you would like help with Xenia Android mail me at aarvsn@disroot.org
