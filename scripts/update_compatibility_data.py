@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 logging.getLogger().setLevel(logging.DEBUG)
 
 # Repo settings
-OWNER = "xenia-canary"
+OWNER = "xenia-android"
 REPO = "game-compatibility"
 STATE = "open"
 
