@@ -6,8 +6,7 @@ the developers to find popular games quickly.
 If you've looked in the list and couldn't find your game - see the following section:
 
 ## Report/Issue Guidelines:
-If you would like to submit a game-compatibility issue, please fill in the Game
-Compatibility Report template, or else your issue will be closed.
+If you would like to submit a game-compatibility issue, please fill go to the official [Xenia canary](https://github.com/xenia-canary) project. For the Android app please open all issues/reports here
 
 ### What NOT to post:
   * Issues that are empty, or don't edit/use the template whatsoever.
@@ -30,8 +29,6 @@ Compatibility Report template, or else your issue will be closed.
     * `This was my childhood game, please get it working.`
 
 Comments that fall under this may be deleted.
-
-#### **Repeat offenders will be blocked from this repository.**
 
 #
 If you would like help with Xenia Android mail me at aarvsn@disroot.org
